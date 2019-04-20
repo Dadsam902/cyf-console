@@ -2,7 +2,7 @@
     console.lua, an interactive console library for Create Your Frisk
     https://github.com/Luigimaster1/cyf-console/
 
-    Copyright (C) 2019  Alexia Tilde
+    Copyright (C) 2019  Luigimaster1
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
